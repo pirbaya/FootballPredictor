@@ -1,81 +1,81 @@
 week,date,day,time,home,away,venue
 31,2025-04-05,Sat,15:00,West Ham,Bournemouth,London Stadium
-31,2025-04-05,Sat,15:00,Manchester Utd,Manchester City,Old Trafford
+31,2025-04-05,Sat,15:00,Man United,Man City,Old Trafford
 31,2025-04-05,Sat,15:00,Brentford,Chelsea,Gtech Community Stadium
-31,2025-04-05,Sat,15:00,Aston Villa,Nottingham Forest,Villa Park
+31,2025-04-05,Sat,15:00,Aston Villa,Nott'm Forest,Villa Park
 31,2025-04-05,Sat,15:00,Everton,Arsenal,Goodison Park
 31,2025-04-05,Sat,15:00,Fulham,Liverpool,Craven Cottage
-31,2025-04-05,Sat,15:00,Ipswich Town,Wolves,Portman Road Stadium
-31,2025-04-05,Sat,15:00,Leicester City,Newcastle Utd,King Power Stadium
+31,2025-04-05,Sat,15:00,Ipswich,Wolves,Portman Road Stadium
+31,2025-04-05,Sat,15:00,Leicester City,Newcastle,King Power Stadium
 31,2025-04-05,Sat,15:00,Crystal Palace,Brighton,Selhurst Park
 31,2025-04-05,Sat,15:00,Tottenham,Southampton,Tottenham Hotspur Stadium
 32,2025-04-12,Sat,15:00,Bournemouth,Fulham,Vitality Stadium
-32,2025-04-12,Sat,15:00,Newcastle Utd,Manchester Utd,St James' Park
+32,2025-04-12,Sat,15:00,Newcastle,Man United,St James' Park
 32,2025-04-12,Sat,15:00,Arsenal,Brentford,Emirates Stadium
 32,2025-04-12,Sat,15:00,Liverpool,West Ham,Anfield
 32,2025-04-12,Sat,15:00,Wolves,Tottenham,Molineux Stadium
 32,2025-04-12,Sat,15:00,Brighton,Leicester City,The American Express Stadium
-32,2025-04-12,Sat,15:00,Manchester City,Crystal Palace,Etihad Stadium
-32,2025-04-12,Sat,15:00,Nottingham Forest,Everton,The City Ground
-32,2025-04-12,Sat,15:00,Chelsea,Ipswich Town,Stamford Bridge
+32,2025-04-12,Sat,15:00,Man City,Crystal Palace,Etihad Stadium
+32,2025-04-12,Sat,15:00,Nott'm Forest,Everton,The City Ground
+32,2025-04-12,Sat,15:00,Chelsea,Ipswich,Stamford Bridge
 32,2025-04-12,Sat,15:00,Southampton,Aston Villa,St Mary's Stadium
 33,2025-04-19,Sat,15:00,Leicester City,Liverpool,King Power Stadium
-33,2025-04-19,Sat,15:00,Ipswich Town,Arsenal,Portman Road Stadium
+33,2025-04-19,Sat,15:00,Ipswich,Arsenal,Portman Road Stadium
 33,2025-04-19,Sat,15:00,Brentford,Brighton,Gtech Community Stadium
-33,2025-04-19,Sat,15:00,Aston Villa,Newcastle Utd,Villa Park
-33,2025-04-19,Sat,15:00,Tottenham,Nottingham Forest,Tottenham Hotspur Stadium
+33,2025-04-19,Sat,15:00,Aston Villa,Newcastle,Villa Park
+33,2025-04-19,Sat,15:00,Tottenham,Nott'm Forest,Tottenham Hotspur Stadium
 33,2025-04-19,Sat,15:00,West Ham,Southampton,London Stadium
 33,2025-04-19,Sat,15:00,Crystal Palace,Bournemouth,Selhurst Park
-33,2025-04-19,Sat,15:00,Everton,Manchester City,Goodison Park
+33,2025-04-19,Sat,15:00,Everton,Man City,Goodison Park
 33,2025-04-19,Sat,15:00,Fulham,Chelsea,Craven Cottage
-33,2025-04-19,Sat,15:00,Manchester Utd,Wolves,Old Trafford
+33,2025-04-19,Sat,15:00,Man United,Wolves,Old Trafford
 34,2025-04-26,Sat,15:00,Chelsea,Everton,Stamford Bridge
 34,2025-04-26,Sat,15:00,Wolves,Leicester City,Molineux Stadium
-34,2025-04-26,Sat,15:00,Newcastle Utd,Ipswich Town,St James' Park
-34,2025-04-26,Sat,15:00,Manchester City,Aston Villa,Etihad Stadium
+34,2025-04-26,Sat,15:00,Newcastle,Ipswich,St James' Park
+34,2025-04-26,Sat,15:00,Man City,Aston Villa,Etihad Stadium
 34,2025-04-26,Sat,15:00,Liverpool,Tottenham,Anfield
 34,2025-04-26,Sat,15:00,Arsenal,Crystal Palace,Emirates Stadium
-34,2025-04-26,Sat,15:00,Bournemouth,Manchester Utd,Vitality Stadium
+34,2025-04-26,Sat,15:00,Bournemouth,Man United,Vitality Stadium
 34,2025-04-26,Sat,15:00,Southampton,Fulham,St Mary's Stadium
-34,2025-04-26,Sat,15:00,Nottingham Forest,Brentford,The City Ground
+34,2025-04-26,Sat,15:00,Nott'm Forest,Brentford,The City Ground
 34,2025-04-26,Sat,15:00,Brighton,West Ham,The American Express Stadium
 35,2025-05-03,Sat,15:00,Chelsea,Liverpool,Stamford Bridge
-35,2025-05-03,Sat,15:00,Brentford,Manchester Utd,Gtech Community Stadium
-35,2025-05-03,Sat,15:00,Manchester City,Wolves,Etihad Stadium
+35,2025-05-03,Sat,15:00,Brentford,Man United,Gtech Community Stadium
+35,2025-05-03,Sat,15:00,Man City,Wolves,Etihad Stadium
 35,2025-05-03,Sat,15:00,West Ham,Tottenham,London Stadium
-35,2025-05-03,Sat,15:00,Crystal Palace,Nottingham Forest,Selhurst Park
+35,2025-05-03,Sat,15:00,Crystal Palace,Nott'm Forest,Selhurst Park
 35,2025-05-03,Sat,15:00,Arsenal,Bournemouth,Emirates Stadium
-35,2025-05-03,Sat,15:00,Everton,Ipswich Town,Goodison Park
+35,2025-05-03,Sat,15:00,Everton,Ipswich,Goodison Park
 35,2025-05-03,Sat,15:00,Aston Villa,Fulham,Villa Park
-35,2025-05-03,Sat,15:00,Brighton,Newcastle Utd,The American Express Stadium
+35,2025-05-03,Sat,15:00,Brighton,Newcastle,The American Express Stadium
 35,2025-05-03,Sat,15:00,Leicester City,Southampton,King Power Stadium
 36,2025-05-10,Sat,15:00,Liverpool,Arsenal,Anfield
-36,2025-05-10,Sat,15:00,Southampton,Manchester City,St Mary's Stadium
+36,2025-05-10,Sat,15:00,Southampton,Man City,St Mary's Stadium
 36,2025-05-10,Sat,15:00,Tottenham,Crystal Palace,Tottenham Hotspur Stadium
 36,2025-05-10,Sat,15:00,Fulham,Everton,Craven Cottage
-36,2025-05-10,Sat,15:00,Newcastle Utd,Chelsea,St James' Park
-36,2025-05-10,Sat,15:00,Nottingham Forest,Leicester City,The City Ground
-36,2025-05-10,Sat,15:00,Manchester Utd,West Ham,Old Trafford
+36,2025-05-10,Sat,15:00,Newcastle,Chelsea,St James' Park
+36,2025-05-10,Sat,15:00,Nott'm Forest,Leicester City,The City Ground
+36,2025-05-10,Sat,15:00,Man United,West Ham,Old Trafford
 36,2025-05-10,Sat,15:00,Bournemouth,Aston Villa,Vitality Stadium
-36,2025-05-10,Sat,15:00,Ipswich Town,Brentford,Portman Road Stadium
+36,2025-05-10,Sat,15:00,Ipswich,Brentford,Portman Road Stadium
 36,2025-05-10,Sat,15:00,Wolves,Brighton,Molineux Stadium
 37,2025-05-18,Sun,15:00,Brentford,Fulham,Gtech Community Stadium
-37,2025-05-18,Sun,15:00,Arsenal,Newcastle Utd,Emirates Stadium
+37,2025-05-18,Sun,15:00,Arsenal,Newcastle,Emirates Stadium
 37,2025-05-18,Sun,15:00,Brighton,Liverpool,The American Express Stadium
-37,2025-05-18,Sun,15:00,Leicester City,Ipswich Town,King Power Stadium
-37,2025-05-18,Sun,15:00,West Ham,Nottingham Forest,London Stadium
+37,2025-05-18,Sun,15:00,Leicester City,Ipswich,King Power Stadium
+37,2025-05-18,Sun,15:00,West Ham,Nott'm Forest,London Stadium
 37,2025-05-18,Sun,15:00,Everton,Southampton,Goodison Park
 37,2025-05-18,Sun,15:00,Aston Villa,Tottenham,Villa Park
-37,2025-05-18,Sun,15:00,Chelsea,Manchester Utd,Stamford Bridge
-37,2025-05-18,Sun,15:00,Manchester City,Bournemouth,Etihad Stadium
+37,2025-05-18,Sun,15:00,Chelsea,Man United,Stamford Bridge
+37,2025-05-18,Sun,15:00,Man City,Bournemouth,Etihad Stadium
 37,2025-05-18,Sun,15:00,Crystal Palace,Wolves,Selhurst Park
 38,2025-05-25,Sun,16:00,Southampton,Arsenal,St Mary's Stadium
 38,2025-05-25,Sun,16:00,Liverpool,Crystal Palace,Anfield
-38,2025-05-25,Sun,16:00,Ipswich Town,West Ham,Portman Road Stadium
+38,2025-05-25,Sun,16:00,Ipswich,West Ham,Portman Road Stadium
 38,2025-05-25,Sun,16:00,Bournemouth,Leicester City,Vitality Stadium
-38,2025-05-25,Sun,16:00,Newcastle Utd,Everton,St James' Park
-38,2025-05-25,Sun,16:00,Fulham,Manchester City,Craven Cottage
-38,2025-05-25,Sun,16:00,Nottingham Forest,Chelsea,The City Ground
-38,2025-05-25,Sun,16:00,Manchester Utd,Aston Villa,Old Trafford
+38,2025-05-25,Sun,16:00,Newcastle,Everton,St James' Park
+38,2025-05-25,Sun,16:00,Fulham,Man City,Craven Cottage
+38,2025-05-25,Sun,16:00,Nott'm Forest,Chelsea,The City Ground
+38,2025-05-25,Sun,16:00,Man United,Aston Villa,Old Trafford
 38,2025-05-25,Sun,16:00,Wolves,Brentford,Molineux Stadium
 38,2025-05-25,Sun,16:00,Tottenham,Brighton,Tottenham Hotspur Stadium
